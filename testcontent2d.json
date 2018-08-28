@@ -1,0 +1,865 @@
+{
+  "modified": "2018-06-04T00:02:00.000Z",
+  "client": "bethere360",
+  "tabs": [
+    {
+      "client": "bethere360",
+      "order": 1,
+      "id": "1df197cd-c84c-4cbb-9701-943d4466c9b4",
+      "label": "Education",
+      "list": "a7917793-68f9-4ec8-b2f8-40d83f80f174",
+      "content": [
+        "9f837e2d-4146-4c15-955d-9cdcd560a4f5christine",
+        "98f2d0e1-d2fa-49d7-9957-75e399e4d1ec",
+        "f738f27c-2ff0-4a96-958a-f81392e07ec7",
+        "25740b05-f5e0-4103-a699-f38e215e9cae",
+        "95606f86-ba34-4b7b-b98e-e27ffc30cecc",
+        "84aafda0-c917-479f-b68e-95d8ec3a26eb"
+      ]
+    },
+    {
+      "client": "bethere360",
+      "order": 2,
+      "id": "7f5da49a-9234-45e9-a34a-38c4f7d1c080",
+      "label": "Wonders",
+      "list": "10e04cfb-01c7-4052-9d7d-eeb2b2a17af3",
+      "content": [
+        "9f837e2d-4146-4c13-955d-9cdcd560a4f4",
+        "9f837e2d-4146-4c13-955d-9cdcd560a4f3",
+        "9f837e2d-4146-4c13-955d-9cdcd560a4f2"
+      ]
+    },
+    {
+      "client": "bethere360",
+      "order": 3,
+      "id": "c669a45c-581b-48f7-b391-2041f854ccd6",
+      "label": "Tourism",
+      "list": "23d00786-0ec7-40e9-a065-07204997f7a2",
+      "content": [
+        "14643555-a7b0-4654-a1a3-11c96b6b8c34",
+        "14643972-a7b0-4654-a1a3-11c96b6b8c25",
+        "14643972-a7b0-4654-a1a3-11c96b6b8cc2",
+        "14643972-a7b0-4654-a1a3-11c96b6b8c55"
+      ]
+    },
+    {
+      "client": "bethere360",
+      "order": 4,
+      "id": "d6a2e8df-0fa3-47a0-bd26-e966ec07bd1a",
+      "label": "Sports",
+      "list": "b53840d5-3841-4d0e-85a4-0190bda3c0c0",
+      "content": [
+        "00ac9d89-fcfd-4ac3-ad71-a8ff7f7bc819",
+        "9f837e2d-4146-4c13-955d-9cdcd560a4f1",
+        "278fe9c0-abd3-4fcb-acc6-5ba4420df357"
+      ]
+    },
+    {
+      "client": "bethere360",
+      "order": 5,
+      "id": "17311c6b-ca53-4271-b9d7-1e22098d116e",
+      "label": "Training",
+      "list": "cdc77075-afc9-400f-8366-3d4e01b2e183",
+      "content": [
+        "9f837e2d-4146-4c15-955d-9cdcd560a4f5"
+      ]
+    },
+    {
+      "client": "bethere360",
+      "order": 6,
+      "id": "ac91e41d-d370-4dee-b16a-bd1573fea231",
+      "label": "Arts",
+      "list": "57825209-6412-48b6-b8be-c9e842d12dd2",
+      "content": [
+        "9f837e2d-4146-4c15-955d-9cdcd560a4f6"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "14643972-a7b0-4654-a1a3-11c96b6b8c25",
+      "title": "DIAMANTE",
+      "category": "c669a45c-581b-48f7-b391-2041f854ccd6",
+      "description": "DIAMANTE: more than just a golf course. 1.5 acres of coastline, 10-acre crystal lagoon, spa, and of course; two world class golf courses designed by Davis Love III and Tiger Woods. This seaside community is breathtaking. Experience it firsthand here.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/diamante/image-375x335.jpg",
+      "image": "http://perspective.radical.io/clients/perspective/images/diamante/image-375x335.jpg",
+      "duration": "1:41",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-06-05T00:00:06.000Z",
+      "vidid": "diamante",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/diamante/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "222.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/diamante/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "81.4MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/diamante/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "81.4MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/diamante/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "27.0MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/diamante/720p.mp4"
+        }
+      },
+      "video-type": "MONO",
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:41",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c13-955d-9cdcd560a4f3",
+      "title": "Northern Lights Canada - English",
+      "category": "7f5da49a-9234-45e9-a34a-38c4f7d1c080",
+      "duration": "1:52",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-06-05T00:00:06.000Z",
+      "description": "Transport yourself to Northern Canada and experience the Aurora Borealis dancing all around you in this colourful natural light show.",
+      "vidid": "wondersnl",
+      "streams": {
+        "hls": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersnl/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "171.3MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersnl/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "83.5MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersnl/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "83.5MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersnl/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "27.6MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersnl/720p.mp4"
+        }
+      },
+      "image": "http://cdn.radical.io/clients/fieldtripvr/images/wondersnl/feature.jpg",
+      "lowRes": "http://cdn.radical.io/clients/fieldtripvr/images/wondersnl/feature.jpg",
+      "flex2": "Northern Lights",
+      "flex3": "English",
+      "flex1": "1:52",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "14643555-a7b0-4654-a1a3-11c96b6b8c34",
+      "title": "Cabo San Lucas Mexico - English",
+      "category": "c669a45c-581b-48f7-b391-2041f854ccd6",
+      "duration": "1:52",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-06-05T00:00:06.000Z",
+      "description": "This resort is the best place for your next vacation. Beautiful sunrises, sandy beaches, and slippery waterslides are in your future. Press play and experience all this amazing retreat has to offer.",
+      "vidid": "caboresort",
+      "streams": {
+        "hls": "http://cdn.radical.io/clients/fieldtripvr/videos/caboresort/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "171.3MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/caboresort/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "83.5MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/caboresort/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "83.5MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/caboresort/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "27.6MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/caboresort/720p.mp4"
+        }
+      },
+      "image": "http://cdn.radical.io/clients/fieldtripvr/images/caboresort/feature.jpg",
+      "lowRes": "http://cdn.radical.io/clients/fieldtripvr/images/caboresort/feature.jpg",
+      "flex2": "Cabo San Lucas",
+      "flex3": "English",
+      "flex1": "1:52",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c13-955d-9cdcd560a4f4",
+      "title": "Grand Canyon USA - English",
+      "category": "7f5da49a-9234-45e9-a34a-38c4f7d1c080",
+      "duration": "5:53",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-06-05T00:00:06.000Z",
+      "description": "Stand on the edge of a cliff, feel yourself being lifted in a hot air balloon while watching the sunset and try to count the stars, if you dare.",
+      "vidid": "wondersgc",
+      "streams": {
+        "hls": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersgc/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "818.1MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersgc/2106p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "230.1MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersgc/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "230.1MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersgc/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "107.1MB",
+          "url": "http://cdn.radical.io/clients/fieldtripvr/videos/wondersgc/720p.mp4"
+        }
+      },
+      "image": "http://cdn.radical.io/clients/fieldtripvr/images/wondersgc/feature.jpg",
+      "flex2": "Grand Canyon",
+      "flex3": "English",
+      "flex1": "5:53",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c15-955d-9cdcd560a4f5christine",
+      "title": "Regular old 2D video",
+      "category": "17311c6b-ca53-4271-b9d7-1e22098d116e",
+      "description": "This corporate video shows how Kryton's products are simple and easy to apply.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "duration": "1:40",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:03.605Z",
+      "vidid": "kryton",
+      "streams": {
+        "hls": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "418.2MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "38.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "38.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "12.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:40",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "video",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c15-955d-9cdcd560a4f5",
+      "title": "Kryton International Inc.",
+      "category": "17311c6b-ca53-4271-b9d7-1e22098d116e",
+      "description": "This corporate video shows how Kryton's products are simple and easy to apply.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "duration": "1:40",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:03.605Z",
+      "vidid": "kryton",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/kryton/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "418.2MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/kryton/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "38.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/kryton/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "38.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/kryton/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "12.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/kryton/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:40",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c13-955d-9cdcd560a4f2",
+      "title": "VR Wonders Of The World: Series Trailer",
+      "category": "7f5da49a-9234-45e9-a34a-38c4f7d1c080",
+      "description": "Experience the magic of the Northern Lights and the mysteries of the Grand Canyon in this Series Trailer.",
+      "image": "http://perspective.radical.io/clients/perspective/images/wonderstr/image-375x335.png",
+      "duration": "1:26",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:09.126Z",
+      "vidid": "wonderstr",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/wonderstr/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "240.0MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/wonderstr/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "71.1MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/wonderstr/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "71.1MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/wonderstr/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "34.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/wonderstr/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:26",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "278fe9c0-abd3-4fcb-acc6-5ba4420df357",
+      "title": "BC Lions VR/360 Experience",
+      "category": "d6a2e8df-0fa3-47a0-bd26-e966ec07bd1a",
+      "description": "Recorded on the field at BC Lions games in Vancouver BC.",
+      "image": "http://cdn2.radical.io/clients/bclions/images/20170906_200134_HighlightReel/feature.png",
+      "vidid": "20170906_200134_HighlightReel",
+      "duration": "4:07",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:12.898Z",
+      "streams": {
+        "hls": "http://cdn2.radical.io/clients/bclions/videos/20170906_200134_HighlightReel/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "618.48MB",
+          "url": "http://cdn2.radical.io/clients/bclions/videos/20170906_200134_HighlightReel/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "437.39MB",
+          "url": "http://cdn2.radical.io/clients/bclions/videos/20170906_200134_HighlightReel/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "219.5MB",
+          "url": "http://cdn2.radical.io/clients/bclions/videos/20170906_200134_HighlightReel/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "67.38MB",
+          "url": "http://cdn2.radical.io/clients/bclions/videos/20170906_200134_HighlightReel/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "4:07",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c15-955d-9cdcd560a4f6",
+      "title": "Memory Lane",
+      "description": "This proof of concept was created in 2015, it takes you on a journey through the memory of an old man.",
+      "category": "ac91e41d-d370-4dee-b16a-bd1573fea231",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/memorylane/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/memorylane/image-375x335.png",
+      "duration": "1:15",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:18.537Z",
+      "vidid": "memorylane",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/memorylane/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "298.5MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/memorylane/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "27.6MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/memorylane/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "27.6MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/memorylane/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "12.9MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/memorylane/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:15",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c13-955d-9cdcd560a4f1",
+      "title": "Canucks VR/360° Experience",
+      "category": "d6a2e8df-0fa3-47a0-bd26-e966ec07bd1a",
+      "client": "bethere360",
+      "description": "Feel like you are part of the team, visit the dressing room and sing along to the national anthem with the Vancouver Canucks.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/canucks/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/canucks/image-375x335.png",
+      "duration": "3:26",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:22.129Z",
+      "vidid": "canucks",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/canucks/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "424.1MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "133.1MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "133.1MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "77.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "3:26",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "14643972-a7b0-4654-a1a3-11c96b6b8c55",
+      "title": "San Jose del Cabo Resort ",
+      "category": "c669a45c-581b-48f7-b391-2041f854ccd6",
+      "description": "Welcome to this beautiful resort. Here you can see the sun rise over our infinity pools, enjoy a drink at the pool bar, and swim out to your own private beachfront pool. With a spa, many restaurants, and a beautiful beach this resort is the perfect place for a vacation. But don't take our word for it, watch this video and feel like you're truly there. ",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/sanjosedelcabo/image-375x335.jpg",
+      "image": "http://perspective.radical.io/clients/perspective/images/sanjosedelcabo/image-375x335.jpg",
+      "duration": "1:43",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:27.870Z",
+      "vidid": "sanjosedelcabo",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/sanjosedelcabo/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "224.5MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/sanjosedelcabo/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "80.0MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/sanjosedelcabo/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "80.0MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/sanjosedelcabo/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "24.9MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/sanjosedelcabo/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:43",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "14643972-a7b0-4654-a1a3-11c96b6b8c34",
+      "title": "Cabo Resort Demo",
+      "description": "This resort is the best place for your next vacation. Beautiful sunrises, sandy beaches, and slippery waterslides are in your future. Press play and experience all this amazing retreat has to offer.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/caboresort/image-375x335.jpg",
+      "image": "http://perspective.radical.io/clients/perspective/images/caboresort/image-375x335.jpg",
+      "duration": "1:52",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:31.821Z",
+      "vidid": "caboresort",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/caboresort/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "171.3MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/caboresort/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "83.5MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/caboresort/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "83.5MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/caboresort/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "27.6MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/caboresort/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:52",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "00ac9d89-fcfd-4ac3-ad71-a8ff7f7bc819",
+      "title": "Canucks Superskills 2017",
+      "category": "d6a2e8df-0fa3-47a0-bd26-e966ec07bd1a",
+      "description": "Feel what it's like to be on the ice with Bo Horvat, Daniel Sedin, and the Vancouver Canucks during the 2017 Superskills Breakaway Relay.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/canucks-skills/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/canucks-skills/image-375x335.png",
+      "duration": "1:22",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:36.228Z",
+      "vidid": "canucks-skills",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/canucks-skills/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "65.2MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks-skills/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "20.8MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks-skills/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "20.8MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks-skills/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "11.6MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/canucks-skills/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:22",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "14643972-a7b0-4654-a1a3-11c96b6b8cc2",
+      "title": "B of C Demo",
+      "category": "c669a45c-581b-48f7-b391-2041f854ccd6",
+      "description": "Explore Mexico in this full 360 degree experience. You get to feel the sun rise around you, sit by the pool with a drink in your hand, listen to the sea lions speak, and even go golfing. Mexico has something for everybody and you get to live it from the comfort of your own home with this experience.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/bofcdemo/image-375x335.jpg",
+      "image": "http://perspective.radical.io/clients/perspective/images/bofcdemo/image-375x335.jpg",
+      "duration": "2:56",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:44.073Z",
+      "vidid": "bofcdemo",
+      "streams": {
+        "hls": "http://perspective.radical.io/clients/perspective/videos/bofcdemo/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "396.6MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/bofcdemo/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "140.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/bofcdemo/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "140.7MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/bofcdemo/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "42.9MB",
+          "url": "http://perspective.radical.io/clients/perspective/videos/bofcdemo/720p.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "2:56",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "c622379f-1f93-4fc1-a901-012f42e4a643",
+      "created": "2018-07-27T18:48:16.819Z",
+      "modified": "2018-08-01T21:26:31.315Z",
+      "order": 18,
+      "client": "bethere360",
+      "duration": "0:03",
+      "vidid": "c622379f-1f93-4fc1-a901-012f42e4a643",
+      "downloads": {
+        "2160p": {
+          "size": "12.72MB",
+          "resolution": "2160p",
+          "url": "http://cdn2.radical.io/clients/bethere360/videos/c622379f-1f93-4fc1-a901-012f42e4a643/2160p.mp4"
+        },
+        "1440p": {
+          "size": "12.19MB",
+          "resolution": "1440p",
+          "url": "http://cdn2.radical.io/clients/bethere360/videos/c622379f-1f93-4fc1-a901-012f42e4a643/1440p.mp4"
+        },
+        "1080p": {
+          "size": "5.8MB",
+          "resolution": "1080p",
+          "url": "http://cdn2.radical.io/clients/bethere360/videos/c622379f-1f93-4fc1-a901-012f42e4a643/1080p.mp4"
+        },
+        "720p": {
+          "size": "1.95MB",
+          "resolution": "720p",
+          "url": "http://cdn2.radical.io/clients/bethere360/videos/c622379f-1f93-4fc1-a901-012f42e4a643/720p.mp4"
+        }
+      },
+      "streams": {
+        "hls": "http://cdn2.radical.io/clients/bethere360/videos/c622379f-1f93-4fc1-a901-012f42e4a643/master.m3u8"
+      },
+      "title": "Test Vid",
+      "description": "testing description",
+      "link": "http://bethere360.io",
+      "image": "http://cdn2.radical.io/clients/bethere360/images/c622379f-1f93-4fc1-a901-012f42e4a643/76b3ea70-93bb-11e8-9769-83834e22fbcc-image-1125x1005.png",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "96bd73bf-bfba-4ebc-a93b-a0b4a9bea946",
+      "title": "UBC Vantage 360",
+      "duration": "6:24",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-08-08T00:07:21.757Z",
+      "description": "Join Sukh Jhangri from UBC Vantage College on a tour of various iconic sites on the UBC campus and within the city of Vancouver. Whether you want to take in some (virtual) sun on the beach or take a stroll through the treetops along a canopy walkway, this tour will give you quick sense of what your student experience will be like in your first year at UBC Vantage College.\n\nWritten & Directed by - Austin Kvaale\nStarring - Sukh Jhangri\nDirector of Photography - Kirk Karasin\nSound - Craig Carpenter \nProduced by  - Sukh Jhangri & UBC Studios\nAnd a special thanks to the UBC AR/VR working group!",
+      "vidid": "ubcvantage",
+      "streams": {
+        "hls": "http://cdn.radical.io/clients/bethere360/videos/ubcvantage/master.m3u8"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "892.9MB",
+          "url": "http://cdn.radical.io/clients/bethere360/videos/ubcvantage/2160p.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "630.4MB",
+          "url": "http://cdn.radical.io/clients/bethere360/videos/ubcvantage/1440p.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "317.4MB",
+          "url": "http://cdn.radical.io/clients/bethere360/videos/ubcvantage/1080p.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "102.7MB",
+          "url": "http://cdn.radical.io/clients/bethere360/videos/ubcvantage/720p.mp4"
+        }
+      },
+      "image": "http://cdn.radical.io/clients/bethere360/images/ubcvantage/UBC1080x740.jpg",
+      "flex2": "UBC Vancouver",
+      "flex3": "English",
+      "flex1": "6:24",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "25740b05-f5e0-4103-a699-f38e215e9cae",
+      "created": "2018-08-20T12:00:00.000Z",
+      "modified": "2018-08-20T12:00:00.000Z",
+      "client": "bethere360",
+      "duration": "",
+      "vidid": "25740b05-f5e0-4103-a699-f38e215e9cae",
+      "downloads": {
+        "2160p": {
+          "resolution": "",
+          "size": "",
+          "url": "https://cdn2.radical.io/clients/bethere360/imagePanoramic/25740b05-f5e0-4103-a699-f38e215e9cae/25740b05-f5e0-4103-a699-f38e215e9cae.png"
+        }
+      },
+      "streams": null,
+      "image": "http://cdn2.radical.io/clients/bethere360/images/25740b05-f5e0-4103-a699-f38e215e9cae/25740b05-f5e0-4103-a699-f38e215e9cae.png",
+      "title": "BCIT Aerospace Technology Campus",
+      "description": "Celebrating over 50 years of aerospace, BCIT has established itself as Canada’s leading aerospace training facility. BCIT’s continuous supply of skilled graduates to industry has led to some of the country’s exclusive undergraduate aerospace programs.",
+      "link": "",
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "videoType": null,
+      "contentType": "imagePanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "95606f86-ba34-4b7b-b98e-e27ffc30cecc",
+      "created": "2018-08-20T12:00:00.000Z",
+      "modified": "2018-08-20T12:00:00.000Z",
+      "client": "bethere360",
+      "duration": "",
+      "vidid": "95606f86-ba34-4b7b-b98e-e27ffc30cecc",
+      "downloads": {
+      "2160p": {
+          "resolution": "",
+          "size": "",
+          "url": "https://cdn2.radical.io/clients/bethere360/imagePanoramic/95606f86-ba34-4b7b-b98e-e27ffc30cecc/95606f86-ba34-4b7b-b98e-e27ffc30cecc.png"
+        }
+      },
+      "streams": null,
+      "image": "http://cdn2.radical.io/clients/bethere360/images/95606f86-ba34-4b7b-b98e-e27ffc30cecc/95606f86-ba34-4b7b-b98e-e27ffc30cecc.png",
+      "title": "BCIT Aerospace Technology Campus",
+      "description": "Celebrating over 50 years of aerospace, BCIT has established itself as Canada’s leading aerospace training facility. BCIT’s continuous supply of skilled graduates to industry has led to some of the country’s exclusive undergraduate aerospace programs.",
+      "link": "",
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "videoType": null,
+      "contentType": "imagePanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "84aafda0-c917-479f-b68e-95d8ec3a26eb",
+      "created": "2018-08-20T12:00:00.000Z",
+      "modified": "2018-08-20T12:00:00.000Z",
+      "client": "bethere360",
+      "duration": "",
+      "vidid": "84aafda0-c917-479f-b68e-95d8ec3a26eb",
+      "downloads": {
+        "2160p": {"url":"https://cdn2.radical.io/clients/bethere360/imagePanoramic/84aafda0-c917-479f-b68e-95d8ec3a26eb/84aafda0-c917-479f-b68e-95d8ec3a26eb.png"}
+      },
+      "streams": null,
+      "image": "http://cdn2.radical.io/clients/bethere360/images/84aafda0-c917-479f-b68e-95d8ec3a26eb/84aafda0-c917-479f-b68e-95d8ec3a26eb.png",
+      "title": "BCIT Aerospace Hanger",
+      "description": "Celebrating over 50 years of aerospace, BCIT has established itself as Canada’s leading aerospace training facility. BCIT’s continuous supply of skilled graduates to industry has led to some of the country’s exclusive undergraduate aerospace programs.",
+      "link": "",
+      "flex1": "",
+      "flex2": "",
+      "flex3": "",
+      "videoType": null,
+      "contentType": "imagePanoramic",
+      "downloadEnabled": true
+    }
+  ]
+}
