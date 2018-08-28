@@ -9,6 +9,7 @@
       "label": "Education",
       "list": "a7917793-68f9-4ec8-b2f8-40d83f80f174",
       "content": [
+        "9f837e2d-4146-4c15-955d-9cdcd560a4f5christine",
         "98f2d0e1-d2fa-49d7-9957-75e399e4d1ec",
         "f738f27c-2ff0-4a96-958a-f81392e07ec7",
         "25740b05-f5e0-4103-a699-f38e215e9cae",
@@ -253,6 +254,51 @@
       "client": "bethere360",
       "videoType": "MONO",
       "contentType": "videoPanoramic",
+      "downloadEnabled": true
+    },
+    {
+      "id": "9f837e2d-4146-4c15-955d-9cdcd560a4f5christine",
+      "title": "Regular old 2D video",
+      "category": "17311c6b-ca53-4271-b9d7-1e22098d116e",
+      "description": "This corporate video shows how Kryton's products are simple and easy to apply.",
+      "thumbnail": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "image": "http://perspective.radical.io/clients/perspective/images/kryton/image-375x335.png",
+      "duration": "1:40",
+      "link": "",
+      "linkLabel": "",
+      "modified": "2018-07-19T00:57:03.605Z",
+      "vidid": "kryton",
+      "streams": {
+        "hls": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+      },
+      "downloads": {
+        "2160p": {
+          "resolution": "2160p",
+          "size": "418.2MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "1440p": {
+          "resolution": "1440p",
+          "size": "38.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "1080p": {
+          "resolution": "1080p",
+          "size": "38.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        },
+        "720p": {
+          "resolution": "720p",
+          "size": "12.7MB",
+          "url": "https://clips.vorwaerts-gmbh.de/VfE_html5.mp4"
+        }
+      },
+      "flex2": "",
+      "flex3": "English",
+      "flex1": "1:40",
+      "client": "bethere360",
+      "videoType": "MONO",
+      "contentType": "video",
       "downloadEnabled": true
     },
     {
